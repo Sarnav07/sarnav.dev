@@ -56,7 +56,7 @@ const Hero = () => {
             className="w-full h-full bg-surface border border-border relative z-10 animate-glow-pulse overflow-hidden bg-cover bg-center"
             style={{
               clipPath: 'polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)',
-              backgroundImage: 'url(/me.jpeg)'
+              backgroundImage: `url(${import.meta.env.BASE_URL}me.jpeg)`
             }}
           >
             {/* Dark overlay for blending */}
