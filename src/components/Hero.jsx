@@ -1,5 +1,4 @@
 import React from 'react';
-import GlitchText from './GlitchText';
 import { Download } from 'lucide-react';
 import { FaXTwitter, FaGithub } from 'react-icons/fa6';
 

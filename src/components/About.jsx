@@ -36,7 +36,7 @@ const About = () => {
         <motion.div className="md:col-span-8 flex flex-col gap-6">
           <div className="prose prose-invert max-w-none">
             <p className="font-sans text-textMuted text-lg leading-relaxed">
-              I'm a first-year Engineering Physics student at IIT Roorkee, building at the intersection of Web3, DeFi, and applied mathematics. I design secure smart contracts, architect multi-agent AI systems, and ship full-stack decentralized applications — from locally-forked testnets to live hackathon deployments.
+              I'm an Engineering Physics student at IIT Roorkee, building at the intersection of Web3, DeFi, and applied mathematics. I design secure smart contracts, architect multi-agent AI systems, and ship full-stack decentralized applications — from locally-forked testnets to live hackathon deployments.
             </p>
             <p className="font-sans text-textMuted text-lg leading-relaxed mt-4">
               When I'm not writing Solidity or Rust, I'm thinking about how theoretical physics and quantitative methods can make on-chain systems more robust.

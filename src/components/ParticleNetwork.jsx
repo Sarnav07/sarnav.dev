@@ -46,7 +46,7 @@ const ParticleNetwork = () => {
 
     const initParticles = () => {
       particles = [];
-      const numParticles = 80;
+      const numParticles = window.innerWidth < 768 ? 35 : 80;
       for (let i = 0; i < numParticles; i++) {
         particles.push(new Particle());
       }
