@@ -6,8 +6,8 @@ import { FaGithub } from 'react-icons/fa6';
 const projectsData = [
   {
     title: 'NEXUS.AI',
-    badge: 'Ongoing',
-    badgeColor: 'text-accent',
+    badge: 'Participated',
+    badgeColor: 'text-textMuted',
     event: 'X Layer Hackathon',
     description: [
       'Trustless multi-agent platform using AI to manage liquidity and execute trades on X Layer testnet',
